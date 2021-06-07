@@ -1,0 +1,98 @@
+,Order,Name,Rank,Category,Effect,Max_Level,Damage
+0,1, Heroic Shield,A,Gold,Boss Gold,∞,40%
+1,2, Stone of the Valrunes,S,Gold,Gold Per Activated Skill,∞,50%
+2,3, The Arcana Cloak,B,Mana,War Cry Mana Cost,40,80%
+3,4, Axe of Muerte,B,Chance,Critical Chance,40,300%
+4,5, Invader's Shield,C,Chance,Multiple Fairy Chance,50,160%
+5,6, Elixir of Eden,B,Effect,Shadow Clone Effect,∞,20%
+6,7, Parchment of Foresight,A,Effect,War Cry Effect,∞,20%
+7,8, Hunter's Ointment,B,Mana,Shadow Clone Mana Cost,40,80%
+8,9, Laborer's Pendant,A,Effect,Hand of Midas Effect,∞,20%
+9,10, Bringer of Ragnarok,A,Effect,Fire Sword Effect,∞,20%
+10,11, Titan's Mask,B,Effect,Heavenly Strike Effect,∞,20%
+11,12, Swamp Gauntlet,C,Duration,Shadow Clone Duration,30,150%
+12,13, Forbidden Scroll,C,Duration,Deadly Strike Duration,30,150%
+13,14, Aegis,C,Duration,War Cry Duration,30,150%
+14,15, Ring of Fealty,C,Duration,Hand of Midas Duration,30,150%
+15,16, Glacial Axe,C,Duration,Fire Sword Duration,30,150%
+16,17, Helmet of Madness,A,Effect,Helmet Boost,∞,50%
+17,18, Egg of Fortune,C,Chance,Chesterson Chance,40,200%
+18,19, Chest of Contentment,B,Gold,Chesterson Gold,∞,40%
+19,20, Book of Prophecy,A,Gold,All Gold,∞,30%
+20,21, Divine Chalice,C,Chance,10x Gold Chance,50,100%
+21,22, Book of Shadows,S,Prestige,Prestige Relics,∞,30%
+22,23, Titanium Plating,A,Effect,Armor Boost,∞,50%
+23,24, Staff of Radiance,C,Reduction,Hero Upgrade Cost,40,80%
+24,25, Blade of Damocles,A,Effect,Sword Boost,∞,50%
+25,26, Heavenly Sword,A,Damage,All Artifact Damage,∞,100%
+26,27, Glove of Kuma,B,Mana,Deadly Strike Mana Cost,30,80%
+27,28, Amethyst Staff,A,Effect,Slash Boost,∞,50%
+28,29, Drunken Hammer,A,Damage,Tap Damage,∞,30%
+29,30, Influential Elixir,B,Damage,Clan Ship Damage,∞,50%
+30,31, Divine Retribution,A,Damage,All Damage,∞,100%
+31,32, The Sword of Storms,A,Damage,Melee Hero Damage,∞,30%
+32,33, Furies Bow,A,Damage,Ranged Hero Damage,∞,30%
+33,34, Charm of the Ancient,A,Damage,Spell Hero Damage,∞,30%
+34,35, Hero's Blade,A,Damage,All Hero Damage,∞,50%
+35,36, Infinity Pendulum,B,Mana,Heavenly Strike Mana Cost,20,80%
+36,37, Oak Staff,B,Mana,Fire Sword Mana Cost,30,80%
+37,38, Fruit of Eden,B,Damage,Pet Damage,∞,50%
+38,39, Titan Spear,B,Mana,Hand of Midas Mana Cost,40,80%
+39,40, Ring of Calisto,S,Effect,All Equipment Boost,∞,50%
+40,41, Royal Toxin,A,Effect,Deadly Strike Effect,∞,20%
+41,42, Avian Feather,B,Damage,Inactive Damage,∞,30%
+42,43, Zakynthos Coin,B,Gold,Inactive Gold,∞,30%
+43,44, Great Fay Medallion,B,Gold,Fairy Gold,∞,40%
+44,45, Neko Sculpture,A,Gold,Heart of Midas Gold,∞,30%
+45,46, Corrupted Rune Heart,C,Damage,Splash Damage,∞,30%
+46,47, Invader's Gjalarhorn,S,Effect,All Active Skill Effect,∞,20%
+47,48, Phantom Timepiece,B,Duration,All Active Skills Duration,30,80%
+48,49, The Master's Sword,B,Damage,Tap Damage from Heroes,40,200%
+49,50, Ambrosia Elixir,C,Mana,Mana Capacity,40,80%
+50,51, Samosek Sword,A,Damage,Sword Attack Damage,∞,50%
+51,52, Heart of Storms,S,Damage,Pet Damage Bonus,∞,50%
+52,53, Apollo Orb,A,Gold,Pet Gold Bonus,∞,50%
+53,54, Essence of the Kitsune,C,Chance,Multiple Spawn Chance,40,300%
+54,55, Durendal Sword,C,Damage,Non-Boss Damage,∞,100%
+55,56, Helheim Skull,A,Damage,Boss Damage,∞,100%
+56,57, Aram Spear,C,Reduction,Reduced Titan HP,40,80%
+57,58, Mystic Staff,C,Mana,Mana Regeneration,40,200%
+58,59, The Retaliator,A,Damage,Critical Damage,∞,20%
+59,60, Ward of the Darkness,C,Duration,Boss Timer,60,200%
+60,61, Tiny Titan Tree,A,Damage,Ground Hero Damage,∞,30%
+61,62, Helm of Hermes,A,Damage,Flying Hero Damage,∞,30%
+62,63, Lost King's Mask,C,Reduction,All Upgrade Cost,40,80%
+63,64, O'Ryan's Charm,A,Damage,Companion Damage,∞,50%
+64,65, Hourglass of the Impatient,B,Duration,All Active Skill Cooldown Rate,40,80%
+65,66, Khrysos Bowl,A,Gold,Stealth Gold,∞,30%
+66,67, Earrings of Portara,B,Damage,Titan Slayer Damage,∞,30%
+67,68, Mystical Beans of Senzu,B,Mana,Mana Refund Percent,40,200%
+68,69, Lucky Foot of Al-mi'raj,A,Effect,All Probabilities,40,200%
+69,70, Boots of Hermes,S,Chance,Portar Chance,40,300%
+70,71, Morgelai Sword,A,Effect,Hero Weapon Boost,50,80%
+71,72, Oberon Pendant,C,Chance,Manni Mana Chance,40,300%
+72,73, Moonlight Bracelet,A,Effect,Aura Boost,∞,50%
+73,74, Unbound Gauntlet,B,Chance,Snap Chance,40,300%
+74,75, Oath's Burden,A,Damage,Knight Boost,∞,50%
+75,76, Crown of the Constellation,A,Damage,Warlord Boost,∞,50%
+76,77, Titania's Sceptre,A,Damage,Sorcerer Boost,∞,50%
+77,78, Fagin's Grip,A,Damage,Rogue Boost,∞,50%
+78,79, Coins of Ebizu,B,Gold,Multi-Spawn Gold,∞,30%
+79,80, The Magnifier,A,Damage,Artifact Damage Bonus,40,300%
+80,81, The Treasure of Fergus,A,Gold,Artifact Gold Bonus,40,300%
+81,82, The Bronzed Compass,B,Gold,Specialty Gold,∞,30%
+82,83, Stryfe's Peace,A,Damage,Fundamental Damage,∞,100%
+83,84, Flute of the Soloist,S,Damage,Damage Per Activated Skill,∞,20%
+84,85, The White Dwarf,A,Damage,Damage Per Owned Artifact,50,300%
+85,86, Sword of the Royals,A,Effect,Duelist Boost,∞,50%
+86,87, Spearit's Vigil,A,Effect,Aviator Boost,∞,50%
+87,88, The Cobalt Plate,A,Effect,Gladiator Boost,∞,50%
+88,89, Sigils of Judgement,A,Effect,Mystic Boost,∞,50%
+89,90, Foliage of the Keeper,A,Effect,Marksman Boost,∞,50%
+90,91, Ringing Stone,A,Effect,Hero Weapon Set Boost,50,80%
+91,92, Quill of Scrolls,A,Effect,Hero Scroll Boost,50,80%
+92,93, Old King's Stamp,A,Effect,Hero Scroll Set Boost,50,80%
+93,94, Evergrowing Stack,A,Damage,Damage Per Total Card Levels,∞,40%
+94,95, Charged Card,A,Gold,Gold Per Total Card Levels,∞,20%
+95,96, Hades Orb,A,Gold,Exotic Pet Gold Bonus,∞,50%
+96,97, Sticky Fruit,A,Damage,Exotic Pet Damage,∞,50%
